@@ -11,4 +11,3 @@ pluginManagement {
 rootProject.name = 'gradle-multi-project'
 include ':app'
 include ':vaadin-starter'
-project(':vaadin-starter').buildFileName="vs.gradle"
