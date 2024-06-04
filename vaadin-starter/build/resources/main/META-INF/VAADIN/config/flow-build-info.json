@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter",
+  "node.version": "v18.14.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/build/frontend",
+  "frontendFolder": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/frontend",
+  "connect.javaSourceFolder": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/src/main/java",
+  "javaResourceFolder": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/src/main/resources",
+  "connect.applicationProperties": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "build"
+}

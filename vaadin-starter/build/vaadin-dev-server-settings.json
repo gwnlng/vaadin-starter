@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/frontend/generated/jar-resources",
+  "staticOutput": "build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "build/classes/META-INF/VAADIN/webapp/../config/",
+  "frontendBundleOutput": "build/classes/META-INF/VAADIN/webapp/",
+  "devBundleOutput": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "build/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/gwunleong/VSCodeProjects/gradle-multi-project/vaadin-starter/build/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

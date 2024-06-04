@@ -1,0 +1,14 @@
+pluginManagement {
+  repositories {
+      maven { url = 'https://maven.vaadin.com/vaadin-prereleases' }
+      gradlePluginPortal()
+  }
+  plugins {
+      id 'com.vaadin' version "${vaadinVersion}"
+  }
+}
+
+rootProject.name = 'gradle-multi-project'
+include ':app'
+include ':vaadin-starter'
+project(':vaadin-starter').buildFileName="vs.gradle"
