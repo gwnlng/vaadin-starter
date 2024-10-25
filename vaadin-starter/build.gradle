@@ -40,3 +40,7 @@ dependencyManagement {
 		mavenBom "com.vaadin:vaadin-bom:$vaadinVersion"
 	}
 }
+
+dependencyLocking {
+	lockAllConfigurations()
+}
